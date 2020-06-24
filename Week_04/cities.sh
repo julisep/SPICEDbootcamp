@@ -1,1 +1,0 @@
-python wiki_downloader.py Rome 4python wiki_downloader.py Stockhom 7python wiki_downloader.py Dresden 3python wiki_downloader.py Marl 5
